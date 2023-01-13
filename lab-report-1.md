@@ -23,4 +23,9 @@ If you see, the beginning of the image says "Last login failed:". this is becaus
 # TRYING SOME COMMANDS
 Here are certain commands you could enter: 
 `cd, ls, pwd, mkdir, and cp`
-Find below what the cd ~ command looks like ![image](
+Find below what the ___cd ~___ command looks like
+
+![image](https://github.com/sanaya7/cse-15l-lab-reports/blob/main/Screen%20Shot%202023-01-12%20at%204.45.56%20PM.png)
+
+cd is change directory, ‘~’ refers to the home directory. Since we’re already at the home directory, it doesn't make a difference. Initially, I tried to run the same command but I forgot to add a space between cd and ~. Hence, there was an error message saying “command not found”.
+
