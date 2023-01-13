@@ -18,7 +18,8 @@ However, replace 'zz' with the letters from your account name. For example, if y
 Your screen should look like:
 
 ![image](https://github.com/sanaya7/cse-15l-lab-reports/blob/main/Screen%20Shot%202023-01-12%20at%204.45.01%20PM.png)
-If you see, the beginning of the image says "Last login failed:". this is because while entering my password, I was not aware that the computer is accepting my typed letters, and ended up entering the same key multiple times, thereby entering the incorrect password. \
+
+If you see, the beginning of the image says "Last login failed:". this is because while entering my password, I was not aware that the computer is accepting my typed letters, and ended up entering the same key multiple times, thereby entering the incorrect password. 
 
 # TRYING SOME COMMANDS
 Here are certain commands you could enter: 
