@@ -1,6 +1,5 @@
 # WEEK 1 LAB REPORT
 ## INSTALLING VISUAL STUDIO CODE
----
 Go to [VScode](https://code.visualstudio.com/) and click on the _blue box_ that says "Download for Windows", or change the downloading option according to your OS.\
 Go to your downloads (Ctrl+J) and click on _"Open File"_ under VSCodeUserSetup. \
 However, my personal laptop and the computer I was using already had VSCode installed, and I was able to skip this step. \
