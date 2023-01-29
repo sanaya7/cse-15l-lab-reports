@@ -29,9 +29,9 @@ Find below what the `cd` command looks like
 
 `cd` is change directory, ‘~’ refers to the home directory. Since we’re already at the home directory, it doesn't make a difference. Initially, I tried to run the same command but I forgot to add a space between cd and ~. Hence, there was an error message saying “command not found”.
 
-`ls` : used to to list files and folders of the given path.
-On trying this comand, it listed the files in the directory.
-`pwd` displays the current working directory
-`mkdir` allows users to create directories
-`cp` stands for copy and is used ot copy files or group of files or directory.
+`ls` : used to to list files and folders of the given path.\
+On trying this comand, it listed the files in the directory.\
+`pwd` displays the current working directory\
+`mkdir` allows users to create directories\
+`cp` stands for copy and is used ot copy files or group of files or directory.\
 
