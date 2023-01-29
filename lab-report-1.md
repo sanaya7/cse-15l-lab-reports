@@ -22,7 +22,7 @@ If you see, the beginning of the image says "Last login failed:". this is becaus
 
 ## TRYING SOME COMMANDS
 Here are certain commands you could enter: 
-`cd', 'ls', 'pwd', 'mkdir', and 'cp`
+`cd, ls, pwd, mkdir, and  cp`
 Find below what the ___cd ~___ command looks like
 
 ![image](cmd.png)
