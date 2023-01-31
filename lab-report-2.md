@@ -8,4 +8,4 @@ Using add-messages:
 2. I added a few more strings. This is the image of the url that adds "Sanaya"
 ![Image](link.png)
 This is what the screen looks like after adding all these strings
-![Image]( 4sent.png)
+![Image]([ 4sent.png](https://github.com/sanaya7/cse-15l-lab-reports/blob/main/4%20sent.png))
