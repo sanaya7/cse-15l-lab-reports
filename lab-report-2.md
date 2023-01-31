@@ -12,4 +12,15 @@ This is what the screen looks like after adding all these strings
 ![Image](sent.png)
 
 ## Part 2
+Failure Inducing Input:
+```
+@Test
+public void testReverseInPlace20) f
+int[] input2 = (1,2,3,4,5};
+ArrayExamples.reverseInPlace(input2):
+assertArrayEquals (new int[]{5,4,3,2,1},inputz);
+}
+7
+```
+![Image](method.png)
 
