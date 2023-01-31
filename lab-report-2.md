@@ -4,7 +4,7 @@ Find below my code for StringServer
 ![Image](code.png)
 Using add-messages:
 1. This is with only one string addition. The url is _localhost:4000/add-message?str=Hello_ which displays "Hello"
-For this, `handleRequest` is called. The relevant argument is URI url. The string str gets changed from null to Hello
+For this, `handleRequest` is called.\ The relevant argument is __URI url__.\ The string str gets changed from _null to Hello_\
 ![Image](hello.png)
 2. I added a few more strings. This is the image of the url that adds "Sanaya"
 ![Image](link.png)
