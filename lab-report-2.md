@@ -3,6 +3,6 @@
 Find below my code for StringServer
 ![Image](code.png)
 Using add-messages:
-1. This is with only one string addition. The url is > localhost:4000/add-message?str=Hello < which displays Hello 
+1. This is with only one string addition. The url is _localhost:4000/add-message?str=Hello_ which displays "Hello"
 ![Image](hello.png)
 
