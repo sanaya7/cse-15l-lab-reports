@@ -10,3 +10,6 @@ For this, `handleRequest` is called. The relevant argument is __URI url__. The s
 ![Image](link.png)
 This is what the screen looks like after adding all these strings
 ![Image](sent.png)
+
+## Part 2
+
