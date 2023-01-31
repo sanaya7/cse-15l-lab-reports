@@ -12,7 +12,36 @@ This is what the screen looks like after adding all these strings
 ![Image](sent.png)
 
 ## Part 2
-Failure Inducing Input: on line #4
+Failure Inducing Input: on line #23
+
+```
+This is the method:
+public class ArrayExamples k
+// Changes the input array to be in reversed order
+static void reverseInPlace (int[] arr) {
+int[] newArray = new int[arr.length];
+for (int i = 0; i
+< arr.length; i
++= 1) f
+newArray[i] = arr[arr.length - i - 1]:
+}
+for (int i
+= 0; i < arr.length; i += 1) {
+arr[i] = newArray[i];
+7
+// Returns a
+*new* array with all the elements of the
+// order
+static int[] reversed (int[] arr) {
+int[] newArray = new int[arr.length];
+for (int i = 0; i < arr.length; i += 1) {
+newArray[arr.length
+-i
+- 1] = arr[il;
+7
+return newArray;
+```
+This is the test:
 ```
 @Test
 public void testReverseInPlace20) f
