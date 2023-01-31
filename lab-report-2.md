@@ -59,3 +59,5 @@ This is the symtom:;
 
 The bug is in the indexing. 
 
+## What I learnt:
+From Lab 2 and Lab 3, I learnt a good amount of practical CS applications which I had not thought of earler. I completely u derstood how a url works and what a ? signifies in the URL. I also understood what a path is and what a query is. I was also able to learn how to make a web server and how to add numbers and sentences to the webpage. I also learnt how a web server can be started using VScode. It also helped me understand features of githun such as cloning and fprking and how that can be used ona day-to-day CS basis.
