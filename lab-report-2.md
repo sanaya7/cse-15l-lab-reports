@@ -14,8 +14,9 @@ This is what the screen looks like after adding all these strings
 ## Part 2
 Failure Inducing Input: on line #23
 
-```
 This is the method:
+
+```
 public class ArrayExamples k
 // Changes the input array to be in reversed order
 static void reverseInPlace (int[] arr) {
@@ -52,4 +53,9 @@ assertArrayEquals (new int[]{5,4,3,2,1},inputz);
 7
 ```
 ![Image](method.png)
+
+This is the symtom:;
+![Image](symptom.png)
+
+The bug is in the indexing. 
 
