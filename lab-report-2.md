@@ -57,7 +57,7 @@ JUnit testing basically mentions which line the bug is on. According to this, th
 This is the debugged code:
 ![Image](debugged.png)
 
-Here, I changed the for loop from `i<arr.length` to `i<arr.length / 2`. This is because initially, the code was justv swapping the first half with the second half and not actually reversing the input. Changing the length to 'half' allows proper reversal because then the code does not go all the way to the end, thereby, not overriding the already reversed part. Another change is adding a temporary variable to store the array. This prevents the code from overriding. 
+Here, I changed the for loop from `i<arr.length` to `i<arr.length / 2`. This is because initially, the code was just swapping the first half with the second half and not actually reversing the input. Changing the length to 'half' allows proper reversal because then the code does not go all the way to the end, thereby, not 're-reversing' the already reversed part. Another change is adding a temporary variable to store the array. This prevents the code from overriding. 
 
 ## What I learnt:
 From Lab 2 and Lab 3, I learnt a good amount of practical CS applications which I had not thought of earler. I completely u derstood how a url works and what a ? signifies in the URL. I also understood what a path is and what a query is. I was also able to learn how to make a web server and how to add numbers and sentences to the webpage. I also learnt how a web server can be started using VScode. It also helped me understand features of githun such as cloning and forking and how that can be used ona day-to-day CS basis.
