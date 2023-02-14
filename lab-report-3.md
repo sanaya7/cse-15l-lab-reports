@@ -28,7 +28,8 @@ Here are two examples:
 
 ## 5. `-w`
 `w` searches for the line containing the exact matching word\
-Here are two examples:
+Here are two examples:\
+In the first example, since there are no words that say exactly "ind", there are no results. In the sceond example, we see all "India" results. 
 ![Image](w.png)
 
 Click here for the [sources](https://www.digitalocean.com/community/tutorials/grep-command-in-linux-unix)
