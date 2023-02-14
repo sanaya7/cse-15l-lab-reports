@@ -4,14 +4,16 @@ grep is a command line tool to search for strings, input files, matching lines, 
 
 ## 1. `-r`
 `r` is used to search for a string recursively in all directories.\
-Here are two examples:
+Here are two examples:\
+All the matching strings are highlighted in red.
 ![Image](r1.png)
 ![Image](r2.png)
 It is important to note that `-r` looks at uppercase and lower case. Searching for "Centuries" will give results for Centuries with 'C' capatalized. 
 
 ## 2. `-i`
 `i` is basically `r` but ignoring case sensitivity. It searches for the relevant string no matter if it's uppercase or lowercase.\
-Here are two examples:
+Here are two examples:\
+Note: we searched in lowercase but results are also in uppercase.
 ![Image](i1.png)
 ![Image](i2.png)
 
