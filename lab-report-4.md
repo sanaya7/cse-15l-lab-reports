@@ -33,5 +33,9 @@ After making the changes, i.e. changing index1 to index2, the tests pass
 
 ![Image](pass.png)
 
-Now, I use commands like int anc commit to save the changes
+Here, i used <up> thrice to get the compiler command and then <up> anotheer three times to get the run command. \
+
+Now, I use commands like int and commit to save the changes.
+
+![Image](last.png)
 
