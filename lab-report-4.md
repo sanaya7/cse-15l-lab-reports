@@ -1,7 +1,7 @@
 # LAB REPORT 4
 ## Github and Login Command-Line Setup
 
-This is how to log into your account without setting up your password\
+This is how to log into your account without setting up your password
 
 Keys used: `<enter>`
 ![Image](final.png)
@@ -33,7 +33,7 @@ After making the changes, i.e. changing index1 to index2, the tests pass
 
 ![Image](pass.png)
 
-Here, i used <up> thrice to get the compiler command and then <up> anotheer three times to get the run command. \
+Here, i used `<up>` command thrice to get the compiler command and then `<up>` another three times to get the run command. 
 
 Now, I use commands like int and commit to save the changes.
 
