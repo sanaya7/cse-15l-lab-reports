@@ -205,6 +205,9 @@ For example, this command lists all files in OUP modified more than 7 days ago
 /home/linux/ieng6/cs15lwi23/cs15lwi23aho/skill-demo1-server/skill-demo1-data/written_2/non-fiction/OUP/Rybczynski/ch2.txt
 /home/linux/ieng6/cs15lwi23/cs15lwi23aho/skill-demo1-server/skill-demo1-data/written_2/non-fiction/OUP/Rybczynski/ch3.txt
 ```
+This is how it looks:
+
+![Image](time1)
 
 For example, this command lists all files in OUP modified less than 24 hours ago. There are no results which means none of the files were modified within 24 hours.
 
@@ -212,5 +215,9 @@ For example, this command lists all files in OUP modified less than 24 hours ago
 [cs15lwi23aho@ieng6-203]:OUP:373$ find /home/linux/ieng6/cs15lwi23/cs15lwi23aho/skill-demo1-server/skill-demo1-data/written_2/non-fiction/OUP -mtime 0 
 [cs15lwi23aho@ieng6-203]:OUP:374$ 
 ```
+
+This is how it looks:
+
+![Image](time2)
 
 You can find the sources used [here](https://www.redhat.com/sysadmin/linux-find-command)
