@@ -190,4 +190,27 @@ Here is an image of what it looks like:
 
 ![Image](findi2.png)
 
+## 4. `-mtime`
+The `-mtime` option in the find command is used to search for files based on their modification time. It allows you to search for files that were modified within a certain time frame, specified in days.
+
+This command line option can be used for cleaning up old log files. If you have a directory of log files that you want to clean up periodically, you can use the find command with -mtime to find all the log files that are older than a certain number of days and delete them.
+
+For example, this command lists all files in OUP modified more than 7 days ago
+
+```
+[cs15lwi23aho@ieng6-203]:OUP:372$ find /home/linux/ieng6/cs15lwi23/cs15lwi23aho/skill-demo1-server/skill-demo1-data/written_2/non-fiction/OUP -mtime +7
+/home/linux/ieng6/cs15lwi23/cs15lwi23aho/skill-demo1-server/skill-demo1-data/written_2/non-fiction/OUP
+…
+/home/linux/ieng6/cs15lwi23/cs15lwi23aho/skill-demo1-server/skill-demo1-data/written_2/non-fiction/OUP/Rybczynski/ch1.txt
+/home/linux/ieng6/cs15lwi23/cs15lwi23aho/skill-demo1-server/skill-demo1-data/written_2/non-fiction/OUP/Rybczynski/ch2.txt
+/home/linux/ieng6/cs15lwi23/cs15lwi23aho/skill-demo1-server/skill-demo1-data/written_2/non-fiction/OUP/Rybczynski/ch3.txt
+```
+
+For example, this command lists all files in OUP modified less than 24 hours ago. There are no results which means none of the files were modified within 24 hours.
+
+```
+[cs15lwi23aho@ieng6-203]:OUP:373$ find /home/linux/ieng6/cs15lwi23/cs15lwi23aho/skill-demo1-server/skill-demo1-data/written_2/non-fiction/OUP -mtime 0 
+[cs15lwi23aho@ieng6-203]:OUP:374$ 
+```
+
 You can find the sources used [here](https://www.redhat.com/sysadmin/linux-find-command)
