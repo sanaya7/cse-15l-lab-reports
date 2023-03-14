@@ -207,7 +207,7 @@ For example, this command lists all files in OUP modified more than 7 days ago
 ```
 This is how it looks:
 
-![Image](time1.png)
+![Image](tim1.png)
 
 For example, this command lists all files in OUP modified less than 24 hours ago. There are no results which means none of the files were modified within 24 hours.
 
