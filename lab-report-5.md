@@ -193,7 +193,7 @@ Here is an image of what it looks like:
 ## 4. `-mtime`
 The `-mtime` option in the find command is used to search for files based on their modification time. It allows you to search for files that were modified within a certain time frame, specified in days.
 
-This command line option can be used for cleaning up old log files. If you have a directory of log files that you want to clean up periodically, you can use the find command with -mtime to find all the log files that are older than a certain number of days and delete them.
+This command line option can be used for cleaning up old log files. If you have a directory of log files that you want to clean up periodically, you can use the find command with `-mtime` to find all the log files that are older than a certain number of days and delete them.
 
 For example, this command lists all files in OUP modified more than 7 days ago
 
