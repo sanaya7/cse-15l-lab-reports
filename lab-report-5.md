@@ -55,7 +55,7 @@ Here is the screenshot of how the above command looks:
 ## 2. `-type`
 Use the find command with the `-type` option to search for files of a specific type.
 
-For example, to find all directories in a directory and its subdirectories, you can use the command find . -type d. This is useful for finding directories that contain specific types of files or for navigating a large directory structure.
+For example, to find all directories in a directory and its subdirectories, you can use the command `find . -type d`. This is useful for finding directories that contain specific types of files or for navigating a large directory structure.
 
 To find all directories in the repository, you can use the following command:
 
