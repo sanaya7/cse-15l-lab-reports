@@ -221,3 +221,5 @@ This is how it looks:
 ![Image](time2.png)
 
 You can find the sources used [here](https://www.redhat.com/sysadmin/linux-find-command)
+
+Link to my Github Pages: https://sanaya7.github.io/cse-15l-lab-reports/lab-report-5
