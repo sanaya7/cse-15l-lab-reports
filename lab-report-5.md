@@ -207,7 +207,7 @@ For example, this command lists all files in OUP modified more than 7 days ago
 ```
 This is how it looks:
 
-![Image](time1)
+![Image](time1.png)
 
 For example, this command lists all files in OUP modified less than 24 hours ago. There are no results which means none of the files were modified within 24 hours.
 
@@ -218,6 +218,6 @@ For example, this command lists all files in OUP modified less than 24 hours ago
 
 This is how it looks:
 
-![Image](time2)
+![Image](time2.png)
 
 You can find the sources used [here](https://www.redhat.com/sysadmin/linux-find-command)
